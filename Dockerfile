@@ -3,7 +3,7 @@ LABEL maintainer = 'hali1010'
 
 ENV PYTHONUNBUFFERED 1
 
-COPY ./requiemnets.txt /tmp/requirements.txt
+COPY ./requirements.txt /tmp/requirements.txt
 COPY ./requirements.dev.txt /tmp/requirements.dev.txt
 COPY ./app /app
 

@@ -1,5 +1,5 @@
 #1. Django 5.0.1이상 6.0.0 미만
-djangoj>=5.0.1,<6.0.0
+django>=5.0.1,<6.0.0
 
 #2. Django rest framework
 djangorestframework>=3.14.0,<4.0.0 
